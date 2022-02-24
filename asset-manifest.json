@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reduxcvgenerator/static/css/main.225b9802.chunk.css",
+    "main.js": "/reduxcvgenerator/static/js/main.03e9555d.chunk.js",
+    "main.js.map": "/reduxcvgenerator/static/js/main.03e9555d.chunk.js.map",
+    "runtime-main.js": "/reduxcvgenerator/static/js/runtime-main.423c2de4.js",
+    "runtime-main.js.map": "/reduxcvgenerator/static/js/runtime-main.423c2de4.js.map",
+    "static/js/2.bb082ae0.chunk.js": "/reduxcvgenerator/static/js/2.bb082ae0.chunk.js",
+    "static/js/2.bb082ae0.chunk.js.map": "/reduxcvgenerator/static/js/2.bb082ae0.chunk.js.map",
+    "static/css/3.0a9ec390.chunk.css": "/reduxcvgenerator/static/css/3.0a9ec390.chunk.css",
+    "static/js/3.9446c69f.chunk.js": "/reduxcvgenerator/static/js/3.9446c69f.chunk.js",
+    "static/js/3.9446c69f.chunk.js.map": "/reduxcvgenerator/static/js/3.9446c69f.chunk.js.map",
+    "static/js/4.cc23548b.chunk.js": "/reduxcvgenerator/static/js/4.cc23548b.chunk.js",
+    "static/js/4.cc23548b.chunk.js.map": "/reduxcvgenerator/static/js/4.cc23548b.chunk.js.map",
+    "static/js/5.ce6f405e.chunk.js": "/reduxcvgenerator/static/js/5.ce6f405e.chunk.js",
+    "static/js/5.ce6f405e.chunk.js.map": "/reduxcvgenerator/static/js/5.ce6f405e.chunk.js.map",
+    "index.html": "/reduxcvgenerator/index.html",
+    "static/css/3.0a9ec390.chunk.css.map": "/reduxcvgenerator/static/css/3.0a9ec390.chunk.css.map",
+    "static/css/main.225b9802.chunk.css.map": "/reduxcvgenerator/static/css/main.225b9802.chunk.css.map",
+    "static/js/2.bb082ae0.chunk.js.LICENSE.txt": "/reduxcvgenerator/static/js/2.bb082ae0.chunk.js.LICENSE.txt",
+    "static/js/3.9446c69f.chunk.js.LICENSE.txt": "/reduxcvgenerator/static/js/3.9446c69f.chunk.js.LICENSE.txt",
+    "static/js/4.cc23548b.chunk.js.LICENSE.txt": "/reduxcvgenerator/static/js/4.cc23548b.chunk.js.LICENSE.txt",
+    "static/js/5.ce6f405e.chunk.js.LICENSE.txt": "/reduxcvgenerator/static/js/5.ce6f405e.chunk.js.LICENSE.txt",
+    "static/media/css.da2e85ba.svg": "/reduxcvgenerator/static/media/css.da2e85ba.svg",
+    "static/media/facebook.c65f8ba6.svg": "/reduxcvgenerator/static/media/facebook.c65f8ba6.svg",
+    "static/media/github.f01c5170.svg": "/reduxcvgenerator/static/media/github.f01c5170.svg",
+    "static/media/instagram.5377a69a.svg": "/reduxcvgenerator/static/media/instagram.5377a69a.svg",
+    "static/media/linkedin.09211630.svg": "/reduxcvgenerator/static/media/linkedin.09211630.svg",
+    "static/media/profile.55d92e87.jpg": "/reduxcvgenerator/static/media/profile.55d92e87.jpg",
+    "static/media/python.169fc5b6.svg": "/reduxcvgenerator/static/media/python.169fc5b6.svg",
+    "static/media/react.5cef3e8b.svg": "/reduxcvgenerator/static/media/react.5cef3e8b.svg",
+    "static/media/repair.3f71ce0d.svg": "/reduxcvgenerator/static/media/repair.3f71ce0d.svg",
+    "static/media/resume.b806b118.pdf": "/reduxcvgenerator/static/media/resume.b806b118.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423c2de4.js",
+    "static/css/3.0a9ec390.chunk.css",
+    "static/js/3.9446c69f.chunk.js",
+    "static/css/main.225b9802.chunk.css",
+    "static/js/main.03e9555d.chunk.js"
+  ]
+}
